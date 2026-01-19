@@ -10,7 +10,7 @@ function Hero() {
         <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold tracking-tight text-gray-900 dark:text-gray-50 mb-4 sm:mb-6 animate-fade-in leading-tight">
           안녕하세요,
           <br />
-          <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+          <span className="text-green-600 dark:text-green-400">
             개발자
           </span>
           입니다
